@@ -1,4 +1,4 @@
-#Write your damn code here >:-(
+#Write your damn code here >:.-(
 import tkinter as tk #เรียกใช้โมดูล tkinter
 
 window = tk.Tk() #กำหนดหน้าต่างโปรแกรม
