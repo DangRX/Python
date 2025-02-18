@@ -3,7 +3,7 @@ import tkinter as tk #เรียกใช้โมดูล tkinter
 
 window = tk.Tk() #กำหนดหน้าต่างโปรแกรม
 window.title("คำนวณค่า BMI") #ชื่อหน้าต่างโปรแกรม
-window.geometry("500x500") #ขนาดหน้าต่างโปรแกรม
+window.geometry("450x140") #ขนาดหน้าต่างโปรแกรม
 
 #
 weight = tk.DoubleVar() #สร้างตัวแปรเก็บค่าน้ำหนัก
